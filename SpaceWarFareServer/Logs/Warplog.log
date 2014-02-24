@@ -1,0 +1,314 @@
+2014-02-24 15:03:12,868 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 15:03:12,874 - WARNING: Running with 500 CCU limit
+2014-02-24 15:03:14,318 - INFO: TCP server started
+2014-02-24 15:03:14,439 - INFO: UDPServer started
+2014-02-24 15:03:14,464 - INFO: started FlashPolicyServer
+2014-02-24 15:03:14,466 - WARNING: Error in createHSQLServiceTable java.sql.SQLSyntaxErrorException: object name already exists: SERVICE in statement [CREATE TABLE service(AppKey varchar(20),Secret varchar(20),Name varchar(20),PRIMARY KEY (AppKey))]
+2014-02-24 15:03:14,467 - WARNING: Error in createHSQLMteringTable java.sql.SQLSyntaxErrorException: object name already exists: METERING in statement [CREATE TABLE metering(AppKey varchar(20),sent int,received int,name varchar(35))]
+2014-02-24 15:03:14,467 - WARNING: Error in createHSQLRoomTable java.sql.SQLSyntaxErrorException: object name already exists: ROOM in statement [CREATE TABLE room(AppKey varchar(20),id varchar(20),maxPlayers int,name varchar(20),properties varchar(500),PRIMARY KEY (AppKey,id))]
+2014-02-24 15:03:54,987 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 15:03:54,993 - WARNING: Running with 500 CCU limit
+2014-02-24 15:03:56,025 - INFO: TCP server started
+2014-02-24 15:03:56,095 - INFO: UDPServer started
+2014-02-24 15:03:56,118 - INFO: started FlashPolicyServer
+2014-02-24 15:03:56,137 - WARNING: Error in createHSQLServiceTable java.sql.SQLSyntaxErrorException: object name already exists: SERVICE in statement [CREATE TABLE service(AppKey varchar(20),Secret varchar(20),Name varchar(20),PRIMARY KEY (AppKey))]
+2014-02-24 15:03:56,138 - WARNING: Error in createHSQLMteringTable java.sql.SQLSyntaxErrorException: object name already exists: METERING in statement [CREATE TABLE metering(AppKey varchar(20),sent int,received int,name varchar(35))]
+2014-02-24 15:03:56,139 - WARNING: Error in createHSQLRoomTable java.sql.SQLSyntaxErrorException: object name already exists: ROOM in statement [CREATE TABLE room(AppKey varchar(20),id varchar(20),maxPlayers int,name varchar(20),properties varchar(500),PRIMARY KEY (AppKey,id))]
+2014-02-24 15:04:54,280 - INFO: handleAuthRequest Payload received {"timeStamp":"2014-02-24T9:34:54.266Z","keepalive":6,"authData":"","recoverytime":0,"apiKey":"49130234-abf8-402b-b","version":"AS_1.5","user":"o71uaY"}
+2014-02-24 15:04:54,284 - INFO: Successfully opened a new session
+2014-02-24 15:05:02,629 - INFO: FlashPolicyHandler sessionOpened
+2014-02-24 15:05:02,630 - INFO: FlashPolicyHandler messageReceived
+2014-02-24 15:05:02,651 - INFO: handleAuthRequest Payload received {"apiKey":"49130234-abf8-402b-b","timeStamp":"2014-02-24T9:35:2.645Z","recoverytime":0,"keepalive":6,"authData":"","version":"AS_1.5","user":"grhBAH"}
+2014-02-24 15:05:02,651 - INFO: Successfully opened a new session
+2014-02-24 15:05:12,724 - INFO: FlashPolicyHandler sessionOpened
+2014-02-24 15:05:12,726 - INFO: FlashPolicyHandler messageReceived
+2014-02-24 15:05:12,751 - INFO: handleAuthRequest Payload received {"authData":"","recoverytime":0,"version":"AS_1.5","timeStamp":"2014-02-24T9:35:12.746Z","user":"SV1R5a","apiKey":"49130234-abf8-402b-b","keepalive":6}
+2014-02-24 15:05:12,752 - INFO: Successfully opened a new session
+2014-02-24 15:05:25,588 - INFO: FlashPolicyHandler sessionOpened
+2014-02-24 15:05:25,593 - INFO: FlashPolicyHandler messageReceived
+2014-02-24 15:05:25,615 - INFO: handleAuthRequest Payload received {"keepalive":6,"timeStamp":"2014-02-24T9:35:25.609Z","user":"4Fcz0R","authData":"","apiKey":"49130234-abf8-402b-b","version":"AS_1.5","recoverytime":0}
+2014-02-24 15:05:25,615 - INFO: Successfully opened a new session
+2014-02-24 15:05:34,814 - INFO: FlashPolicyHandler sessionOpened
+2014-02-24 15:05:34,815 - INFO: FlashPolicyHandler messageReceived
+2014-02-24 15:05:34,842 - INFO: handleAuthRequest Payload received {"keepalive":6,"authData":"","version":"AS_1.5","user":"BL878c","recoverytime":0,"apiKey":"49130234-abf8-402b-b","timeStamp":"2014-02-24T9:35:34.833Z"}
+2014-02-24 15:05:34,842 - INFO: Successfully opened a new session
+2014-02-24 15:06:05,729 - INFO: Received: 45 Sent: 79
+2014-02-24 15:06:05,761 - INFO: billing AppKey 49130234-abf8-402b-b for 124 messages
+2014-02-24 15:06:34,710 - INFO: Received: 81 Sent: 174
+2014-02-24 15:06:34,711 - INFO: billing AppKey 49130234-abf8-402b-b for 255 messages
+2014-02-24 15:06:35,595 - INFO: Received: 46 Sent: 59
+2014-02-24 15:06:35,595 - INFO: billing AppKey 49130234-abf8-402b-b for 105 messages
+2014-02-24 15:06:36,078 - INFO: Received: 64 Sent: 83
+2014-02-24 15:06:36,078 - INFO: billing AppKey 49130234-abf8-402b-b for 147 messages
+2014-02-24 15:06:36,681 - INFO: Received: 58 Sent: 76
+2014-02-24 15:06:36,682 - INFO: billing AppKey 49130234-abf8-402b-b for 134 messages
+2014-02-24 15:09:10,700 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 15:09:10,705 - WARNING: Running with 500 CCU limit
+2014-02-24 15:09:12,085 - INFO: TCP server started
+2014-02-24 15:09:12,196 - INFO: UDPServer started
+2014-02-24 15:09:12,220 - INFO: started FlashPolicyServer
+2014-02-24 15:09:12,222 - WARNING: Error in createHSQLServiceTable java.sql.SQLSyntaxErrorException: object name already exists: SERVICE in statement [CREATE TABLE service(AppKey varchar(20),Secret varchar(20),Name varchar(20),PRIMARY KEY (AppKey))]
+2014-02-24 15:09:12,223 - WARNING: Error in createHSQLMteringTable java.sql.SQLSyntaxErrorException: object name already exists: METERING in statement [CREATE TABLE metering(AppKey varchar(20),sent int,received int,name varchar(35))]
+2014-02-24 15:09:12,223 - WARNING: Error in createHSQLRoomTable java.sql.SQLSyntaxErrorException: object name already exists: ROOM in statement [CREATE TABLE room(AppKey varchar(20),id varchar(20),maxPlayers int,name varchar(20),properties varchar(500),PRIMARY KEY (AppKey,id))]
+2014-02-24 15:09:31,949 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 15:09:31,954 - WARNING: Running with 500 CCU limit
+2014-02-24 15:09:32,911 - INFO: TCP server started
+2014-02-24 15:09:32,997 - INFO: UDPServer started
+2014-02-24 15:09:33,041 - INFO: started FlashPolicyServer
+2014-02-24 15:09:33,043 - WARNING: Error in createHSQLServiceTable java.sql.SQLSyntaxErrorException: object name already exists: SERVICE in statement [CREATE TABLE service(AppKey varchar(20),Secret varchar(20),Name varchar(20),PRIMARY KEY (AppKey))]
+2014-02-24 15:09:33,044 - WARNING: Error in createHSQLMteringTable java.sql.SQLSyntaxErrorException: object name already exists: METERING in statement [CREATE TABLE metering(AppKey varchar(20),sent int,received int,name varchar(35))]
+2014-02-24 15:09:33,044 - WARNING: Error in createHSQLRoomTable java.sql.SQLSyntaxErrorException: object name already exists: ROOM in statement [CREATE TABLE room(AppKey varchar(20),id varchar(20),maxPlayers int,name varchar(20),properties varchar(500),PRIMARY KEY (AppKey,id))]
+2014-02-24 15:09:39,236 - INFO: handleAuthRequest Payload received {"authData":"","timeStamp":"2014-02-24T9:39:39.228Z","user":"1tqyci","recoverytime":0,"keepalive":6,"version":"AS_1.5","apiKey":"49130234-abf8-402b-b"}
+2014-02-24 15:09:39,241 - INFO: Successfully opened a new session
+2014-02-24 15:09:55,353 - INFO: FlashPolicyHandler sessionOpened
+2014-02-24 15:09:55,354 - INFO: FlashPolicyHandler messageReceived
+2014-02-24 15:09:55,422 - INFO: handleAuthRequest Payload received {"keepalive":6,"authData":"","version":"AS_1.5","user":"l1ySMT","recoverytime":0,"apiKey":"49130234-abf8-402b-b","timeStamp":"2014-02-24T9:39:55.415Z"}
+2014-02-24 15:09:55,422 - INFO: Successfully opened a new session
+2014-02-24 15:11:26,408 - INFO: Received: 60 Sent: 55
+2014-02-24 15:11:26,409 - INFO: billing AppKey 49130234-abf8-402b-b for 115 messages
+2014-02-24 15:11:35,092 - INFO: Received: 95 Sent: 107
+2014-02-24 15:11:35,093 - INFO: billing AppKey 49130234-abf8-402b-b for 202 messages
+2014-02-24 15:14:12,218 - INFO: handleAuthRequest Payload received {"timeStamp":"2014-02-24T9:44:12.213Z","version":"AS_1.5","keepalive":6,"apiKey":"49130234-abf8-402b-b","user":"usdqXR","recoverytime":0,"authData":""}
+2014-02-24 15:14:12,219 - INFO: Successfully opened a new session
+2014-02-24 15:14:14,970 - INFO: Received: 7 Sent: 8
+2014-02-24 15:14:14,970 - INFO: billing AppKey 49130234-abf8-402b-b for 15 messages
+2014-02-24 15:16:47,871 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 15:16:47,882 - WARNING: Running with 500 CCU limit
+2014-02-24 15:16:49,635 - INFO: TCP server started
+2014-02-24 15:16:49,799 - INFO: UDPServer started
+2014-02-24 15:16:49,830 - INFO: started FlashPolicyServer
+2014-02-24 15:16:49,834 - WARNING: Error in createHSQLServiceTable java.sql.SQLSyntaxErrorException: object name already exists: SERVICE in statement [CREATE TABLE service(AppKey varchar(20),Secret varchar(20),Name varchar(20),PRIMARY KEY (AppKey))]
+2014-02-24 15:16:49,834 - WARNING: Error in createHSQLMteringTable java.sql.SQLSyntaxErrorException: object name already exists: METERING in statement [CREATE TABLE metering(AppKey varchar(20),sent int,received int,name varchar(35))]
+2014-02-24 15:16:49,835 - WARNING: Error in createHSQLRoomTable java.sql.SQLSyntaxErrorException: object name already exists: ROOM in statement [CREATE TABLE room(AppKey varchar(20),id varchar(20),maxPlayers int,name varchar(20),properties varchar(500),PRIMARY KEY (AppKey,id))]
+2014-02-24 15:16:54,516 - INFO: handleAuthRequest Payload received {"authData":"","version":"AS_1.5","user":"IHQzAz","timeStamp":"2014-02-24T9:46:54.499Z","keepalive":6,"recoverytime":0,"apiKey":"49130234-abf8-402b-b"}
+2014-02-24 15:16:54,521 - INFO: Successfully opened a new session
+2014-02-24 15:16:59,688 - INFO: Received: 12 Sent: 20
+2014-02-24 15:16:59,692 - INFO: billing AppKey 49130234-abf8-402b-b for 32 messages
+2014-02-24 15:17:07,590 - INFO: handleAuthRequest Payload received {"apiKey":"49130234-abf8-402b-b","version":"AS_1.5","user":"gQ7B4u","recoverytime":0,"timeStamp":"2014-02-24T9:47:7.582Z","keepalive":6,"authData":""}
+2014-02-24 15:17:07,591 - INFO: Successfully opened a new session
+2014-02-24 15:17:17,508 - INFO: Received: 16 Sent: 25
+2014-02-24 15:17:17,511 - INFO: billing AppKey 49130234-abf8-402b-b for 41 messages
+2014-02-24 15:18:41,788 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 15:18:41,796 - WARNING: Running with 500 CCU limit
+2014-02-24 15:18:44,310 - INFO: TCP server started
+2014-02-24 15:18:44,566 - INFO: UDPServer started
+2014-02-24 15:18:44,681 - INFO: started FlashPolicyServer
+2014-02-24 15:18:44,686 - WARNING: Error in createHSQLServiceTable java.sql.SQLSyntaxErrorException: object name already exists: SERVICE in statement [CREATE TABLE service(AppKey varchar(20),Secret varchar(20),Name varchar(20),PRIMARY KEY (AppKey))]
+2014-02-24 15:18:44,687 - WARNING: Error in createHSQLMteringTable java.sql.SQLSyntaxErrorException: object name already exists: METERING in statement [CREATE TABLE metering(AppKey varchar(20),sent int,received int,name varchar(35))]
+2014-02-24 15:18:44,688 - WARNING: Error in createHSQLRoomTable java.sql.SQLSyntaxErrorException: object name already exists: ROOM in statement [CREATE TABLE room(AppKey varchar(20),id varchar(20),maxPlayers int,name varchar(20),properties varchar(500),PRIMARY KEY (AppKey,id))]
+2014-02-24 15:18:48,111 - INFO: handleAuthRequest Payload received {"apiKey":"49130234-abf8-402b-b","recoverytime":0,"user":"kJsv5o","authData":"","timeStamp":"2014-02-24T9:48:48.95Z","version":"AS_1.5","keepalive":6}
+2014-02-24 15:18:48,115 - INFO: Successfully opened a new session
+2014-02-24 15:18:49,785 - INFO: Received: 5 Sent: 6
+2014-02-24 15:18:49,789 - INFO: billing AppKey 49130234-abf8-402b-b for 11 messages
+2014-02-24 15:21:00,716 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 15:21:00,726 - WARNING: Running with 500 CCU limit
+2014-02-24 15:21:02,425 - INFO: TCP server started
+2014-02-24 15:21:02,588 - INFO: UDPServer started
+2014-02-24 15:21:02,621 - INFO: started FlashPolicyServer
+2014-02-24 15:21:02,624 - WARNING: Error in createHSQLServiceTable java.sql.SQLSyntaxErrorException: object name already exists: SERVICE in statement [CREATE TABLE service(AppKey varchar(20),Secret varchar(20),Name varchar(20),PRIMARY KEY (AppKey))]
+2014-02-24 15:21:02,624 - WARNING: Error in createHSQLMteringTable java.sql.SQLSyntaxErrorException: object name already exists: METERING in statement [CREATE TABLE metering(AppKey varchar(20),sent int,received int,name varchar(35))]
+2014-02-24 15:21:02,625 - WARNING: Error in createHSQLRoomTable java.sql.SQLSyntaxErrorException: object name already exists: ROOM in statement [CREATE TABLE room(AppKey varchar(20),id varchar(20),maxPlayers int,name varchar(20),properties varchar(500),PRIMARY KEY (AppKey,id))]
+2014-02-24 15:21:07,929 - INFO: handleAuthRequest Payload received {"authData":"","recoverytime":0,"keepalive":6,"user":"yQnRPE","version":"AS_1.5","apiKey":"49130234-abf8-402b-b","timeStamp":"2014-02-24T9:51:7.914Z"}
+2014-02-24 15:21:07,932 - INFO: Successfully opened a new session
+2014-02-24 15:21:22,168 - INFO: FlashPolicyHandler sessionOpened
+2014-02-24 15:21:22,169 - INFO: FlashPolicyHandler messageReceived
+2014-02-24 15:21:22,212 - INFO: handleAuthRequest Payload received {"authData":"","keepalive":6,"version":"AS_1.5","user":"6BURn1","apiKey":"49130234-abf8-402b-b","recoverytime":0,"timeStamp":"2014-02-24T9:51:22.204Z"}
+2014-02-24 15:21:22,213 - INFO: Successfully opened a new session
+2014-02-24 15:21:57,287 - INFO: handleAuthRequest Payload received {"version":"AS_1.5","timeStamp":"2014-02-24T9:51:57.280Z","keepalive":6,"user":"4cf0e4","recoverytime":0,"apiKey":"49130234-abf8-402b-b","authData":""}
+2014-02-24 15:21:57,288 - INFO: Successfully opened a new session
+2014-02-24 15:22:42,363 - INFO: handleAuthRequest Payload received {"keepalive":6,"timeStamp":"2014-02-24T9:52:42.356Z","authData":"","version":"AS_1.5","apiKey":"49130234-abf8-402b-b","user":"KG0yTN","recoverytime":0}
+2014-02-24 15:22:42,363 - INFO: Successfully opened a new session
+2014-02-24 15:23:14,926 - INFO: handleAuthRequest Payload received {"authData":"","version":"AS_1.5","timeStamp":"2014-02-24T9:53:14.919Z","recoverytime":0,"user":"oHfdHb","apiKey":"49130234-abf8-402b-b","keepalive":6}
+2014-02-24 15:23:14,926 - INFO: Successfully opened a new session
+2014-02-24 15:23:32,700 - INFO: handleAuthRequest Payload received {"user":"XqLKwe","recoverytime":0,"authData":"","timeStamp":"2014-02-24T9:53:32.693Z","version":"AS_1.5","keepalive":6,"apiKey":"49130234-abf8-402b-b"}
+2014-02-24 15:23:32,700 - INFO: Successfully opened a new session
+2014-02-24 15:29:08,545 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 15:29:08,554 - WARNING: Running with 500 CCU limit
+2014-02-24 15:29:13,456 - INFO: TCP server started
+2014-02-24 15:29:13,617 - INFO: UDPServer started
+2014-02-24 15:29:13,646 - INFO: started FlashPolicyServer
+2014-02-24 15:29:13,650 - WARNING: Error in createHSQLServiceTable java.sql.SQLSyntaxErrorException: object name already exists: SERVICE in statement [CREATE TABLE service(AppKey varchar(20),Secret varchar(20),Name varchar(20),PRIMARY KEY (AppKey))]
+2014-02-24 15:29:13,651 - WARNING: Error in createHSQLMteringTable java.sql.SQLSyntaxErrorException: object name already exists: METERING in statement [CREATE TABLE metering(AppKey varchar(20),sent int,received int,name varchar(35))]
+2014-02-24 15:29:13,651 - WARNING: Error in createHSQLRoomTable java.sql.SQLSyntaxErrorException: object name already exists: ROOM in statement [CREATE TABLE room(AppKey varchar(20),id varchar(20),maxPlayers int,name varchar(20),properties varchar(500),PRIMARY KEY (AppKey,id))]
+2014-02-24 15:29:19,549 - INFO: handleAuthRequest Payload received {"apiKey":"49130234-abf8-402b-b","recoverytime":0,"user":"tPmNHh","authData":"","timeStamp":"2014-02-24T9:59:19.531Z","version":"AS_1.5","keepalive":6}
+2014-02-24 15:29:19,553 - INFO: Successfully opened a new session
+2014-02-24 15:29:32,676 - INFO: FlashPolicyHandler sessionOpened
+2014-02-24 15:29:32,677 - INFO: FlashPolicyHandler messageReceived
+2014-02-24 15:29:32,704 - INFO: handleAuthRequest Payload received {"recoverytime":0,"apiKey":"49130234-abf8-402b-b","timeStamp":"2014-02-24T9:59:32.695Z","version":"AS_1.5","authData":"","keepalive":6,"user":"m62RIO"}
+2014-02-24 15:29:32,705 - INFO: Successfully opened a new session
+2014-02-24 15:32:07,074 - INFO: handleAuthRequest Payload received {"keepalive":6,"authData":"","user":"o5qUhR","timeStamp":"2014-02-24T10:2:7.66Z","apiKey":"49130234-abf8-402b-b","version":"AS_1.5","recoverytime":0}
+2014-02-24 15:32:07,076 - INFO: Successfully opened a new session
+2014-02-24 15:33:03,563 - INFO: handleAuthRequest Payload received {"keepalive":6,"user":"fo55rA","apiKey":"49130234-abf8-402b-b","recoverytime":0,"version":"AS_1.5","authData":"","timeStamp":"2014-02-24T10:2:57.905Z"}
+2014-02-24 15:33:03,564 - INFO: Successfully opened a new session
+2014-02-24 15:33:03,565 - ERROR: Session Id expected 367268054
+2014-02-24 15:33:03,566 - ERROR: Session Id expected 367268054
+2014-02-24 15:33:05,605 - ERROR: Session Id expected 367268054
+2014-02-24 15:33:07,608 - ERROR: Session Id expected 367268054
+2014-02-24 15:33:15,195 - INFO: handleAuthRequest Payload received {"version":"AS_1.5","user":"NEugRM","recoverytime":0,"apiKey":"49130234-abf8-402b-b","timeStamp":"2014-02-24T10:3:15.189Z","keepalive":6,"authData":""}
+2014-02-24 15:33:15,197 - INFO: Successfully opened a new session
+2014-02-24 15:33:32,978 - INFO: FlashPolicyHandler sessionOpened
+2014-02-24 15:33:32,979 - INFO: FlashPolicyHandler messageReceived
+2014-02-24 15:33:33,025 - INFO: handleAuthRequest Payload received {"timeStamp":"2014-02-24T10:3:33.19Z","keepalive":6,"authData":"","apiKey":"49130234-abf8-402b-b","recoverytime":0,"user":"By1YWY","version":"AS_1.5"}
+2014-02-24 15:33:33,025 - INFO: Successfully opened a new session
+2014-02-24 15:33:47,752 - INFO: FlashPolicyHandler sessionOpened
+2014-02-24 15:33:47,753 - INFO: FlashPolicyHandler messageReceived
+2014-02-24 15:33:47,780 - INFO: handleAuthRequest Payload received {"timeStamp":"2014-02-24T10:3:47.774Z","recoverytime":0,"authData":"","user":"HQ0Sb7","keepalive":6,"version":"AS_1.5","apiKey":"49130234-abf8-402b-b"}
+2014-02-24 15:33:47,780 - INFO: Successfully opened a new session
+2014-02-24 15:35:09,307 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 15:35:09,317 - WARNING: Running with 500 CCU limit
+2014-02-24 15:35:14,124 - INFO: TCP server started
+2014-02-24 15:35:14,291 - INFO: UDPServer started
+2014-02-24 15:35:14,322 - INFO: started FlashPolicyServer
+2014-02-24 15:35:14,326 - WARNING: Error in createHSQLServiceTable java.sql.SQLSyntaxErrorException: object name already exists: SERVICE in statement [CREATE TABLE service(AppKey varchar(20),Secret varchar(20),Name varchar(20),PRIMARY KEY (AppKey))]
+2014-02-24 15:35:14,326 - WARNING: Error in createHSQLMteringTable java.sql.SQLSyntaxErrorException: object name already exists: METERING in statement [CREATE TABLE metering(AppKey varchar(20),sent int,received int,name varchar(35))]
+2014-02-24 15:35:14,327 - WARNING: Error in createHSQLRoomTable java.sql.SQLSyntaxErrorException: object name already exists: ROOM in statement [CREATE TABLE room(AppKey varchar(20),id varchar(20),maxPlayers int,name varchar(20),properties varchar(500),PRIMARY KEY (AppKey,id))]
+2014-02-24 15:35:18,554 - INFO: handleAuthRequest Payload received {"authData":"","timeStamp":"2014-02-24T10:5:18.540Z","keepalive":6,"apiKey":"49130234-abf8-402b-b","version":"AS_1.5","user":"CBu34o","recoverytime":0}
+2014-02-24 15:35:18,559 - INFO: Successfully opened a new session
+2014-02-24 15:35:31,953 - INFO: Received: 9 Sent: 6
+2014-02-24 15:35:31,963 - INFO: billing AppKey 49130234-abf8-402b-b for 15 messages
+2014-02-24 15:37:17,518 - INFO: handleAuthRequest Payload received {"recoverytime":0,"timeStamp":"2014-02-24T10:7:17.511Z","keepalive":6,"authData":"","version":"AS_1.5","apiKey":"49130234-abf8-402b-b","user":"LnpRB8"}
+2014-02-24 15:37:17,518 - INFO: Successfully opened a new session
+2014-02-24 15:37:33,289 - INFO: Received: 10 Sent: 14
+2014-02-24 15:37:33,291 - INFO: billing AppKey 49130234-abf8-402b-b for 24 messages
+2014-02-24 15:38:14,330 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 15:38:14,337 - WARNING: Running with 500 CCU limit
+2014-02-24 15:38:16,084 - INFO: TCP server started
+2014-02-24 15:38:16,235 - INFO: UDPServer started
+2014-02-24 15:38:16,269 - INFO: started FlashPolicyServer
+2014-02-24 15:38:16,275 - WARNING: Error in createHSQLServiceTable java.sql.SQLSyntaxErrorException: object name already exists: SERVICE in statement [CREATE TABLE service(AppKey varchar(20),Secret varchar(20),Name varchar(20),PRIMARY KEY (AppKey))]
+2014-02-24 15:38:16,276 - WARNING: Error in createHSQLMteringTable java.sql.SQLSyntaxErrorException: object name already exists: METERING in statement [CREATE TABLE metering(AppKey varchar(20),sent int,received int,name varchar(35))]
+2014-02-24 15:38:16,278 - WARNING: Error in createHSQLRoomTable java.sql.SQLSyntaxErrorException: object name already exists: ROOM in statement [CREATE TABLE room(AppKey varchar(20),id varchar(20),maxPlayers int,name varchar(20),properties varchar(500),PRIMARY KEY (AppKey,id))]
+2014-02-24 15:38:20,811 - INFO: handleAuthRequest Payload received {"keepalive":6,"user":"34qNvg","apiKey":"49130234-abf8-402b-b","recoverytime":0,"version":"AS_1.5","authData":"","timeStamp":"2014-02-24T10:8:20.794Z"}
+2014-02-24 15:38:20,817 - INFO: Successfully opened a new session
+2014-02-24 15:38:30,012 - INFO: Received: 10 Sent: 14
+2014-02-24 15:38:30,015 - INFO: billing AppKey 49130234-abf8-402b-b for 24 messages
+2014-02-24 15:38:37,645 - INFO: handleAuthRequest Payload received {"keepalive":6,"version":"AS_1.5","user":"eMb1fe","authData":"","recoverytime":0,"timeStamp":"2014-02-24T10:8:37.636Z","apiKey":"49130234-abf8-402b-b"}
+2014-02-24 15:38:37,645 - INFO: Successfully opened a new session
+2014-02-24 15:39:49,607 - INFO: Received: 7 Sent: 8
+2014-02-24 15:39:49,611 - INFO: billing AppKey 49130234-abf8-402b-b for 15 messages
+2014-02-24 15:42:22,399 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 15:42:22,408 - WARNING: Running with 500 CCU limit
+2014-02-24 15:42:27,367 - INFO: TCP server started
+2014-02-24 15:42:27,525 - INFO: UDPServer started
+2014-02-24 15:42:27,556 - INFO: started FlashPolicyServer
+2014-02-24 15:42:27,560 - WARNING: Error in createHSQLServiceTable java.sql.SQLSyntaxErrorException: object name already exists: SERVICE in statement [CREATE TABLE service(AppKey varchar(20),Secret varchar(20),Name varchar(20),PRIMARY KEY (AppKey))]
+2014-02-24 15:42:27,561 - WARNING: Error in createHSQLMteringTable java.sql.SQLSyntaxErrorException: object name already exists: METERING in statement [CREATE TABLE metering(AppKey varchar(20),sent int,received int,name varchar(35))]
+2014-02-24 15:42:27,562 - WARNING: Error in createHSQLRoomTable java.sql.SQLSyntaxErrorException: object name already exists: ROOM in statement [CREATE TABLE room(AppKey varchar(20),id varchar(20),maxPlayers int,name varchar(20),properties varchar(500),PRIMARY KEY (AppKey,id))]
+2014-02-24 15:42:32,156 - INFO: handleAuthRequest Payload received {"timeStamp":"2014-02-24T10:12:32.139Z","user":"kf37U8","authData":"","recoverytime":0,"version":"AS_1.5","apiKey":"49130234-abf8-402b-b","keepalive":6}
+2014-02-24 15:42:32,163 - INFO: Successfully opened a new session
+2014-02-24 15:42:38,611 - INFO: Received: 6 Sent: 6
+2014-02-24 15:42:38,614 - INFO: billing AppKey 49130234-abf8-402b-b for 12 messages
+2014-02-24 16:09:13,483 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 16:09:13,491 - WARNING: Running with 500 CCU limit
+2014-02-24 16:09:17,460 - INFO: TCP server started
+2014-02-24 16:09:17,590 - INFO: UDPServer started
+2014-02-24 16:09:17,623 - INFO: started FlashPolicyServer
+2014-02-24 16:09:17,626 - WARNING: Error in createHSQLServiceTable java.sql.SQLSyntaxErrorException: object name already exists: SERVICE in statement [CREATE TABLE service(AppKey varchar(20),Secret varchar(20),Name varchar(20),PRIMARY KEY (AppKey))]
+2014-02-24 16:09:17,627 - WARNING: Error in createHSQLMteringTable java.sql.SQLSyntaxErrorException: object name already exists: METERING in statement [CREATE TABLE metering(AppKey varchar(20),sent int,received int,name varchar(35))]
+2014-02-24 16:09:17,628 - WARNING: Error in createHSQLRoomTable java.sql.SQLSyntaxErrorException: object name already exists: ROOM in statement [CREATE TABLE room(AppKey varchar(20),id varchar(20),maxPlayers int,name varchar(20),properties varchar(500),PRIMARY KEY (AppKey,id))]
+2014-02-24 16:09:22,822 - INFO: handleAuthRequest Payload received {"apiKey":"49130234-abf8-402b-b","authData":"","user":"Veap4C","recoverytime":0,"version":"AS_1.5","timeStamp":"2014-02-24T10:39:22.803Z","keepalive":6}
+2014-02-24 16:09:22,825 - INFO: Successfully opened a new session
+2014-02-24 16:09:34,336 - INFO: FlashPolicyHandler sessionOpened
+2014-02-24 16:09:34,344 - INFO: FlashPolicyHandler messageReceived
+2014-02-24 16:09:34,383 - INFO: handleAuthRequest Payload received {"timeStamp":"2014-02-24T10:39:34.376Z","keepalive":6,"authData":"","apiKey":"49130234-abf8-402b-b","recoverytime":0,"user":"Piwbo1","version":"AS_1.5"}
+2014-02-24 16:09:34,383 - INFO: Successfully opened a new session
+2014-02-24 16:10:00,356 - INFO: Received: 28 Sent: 48
+2014-02-24 16:10:00,359 - INFO: billing AppKey 49130234-abf8-402b-b for 76 messages
+2014-02-24 16:20:54,870 - INFO: Received: 366 Sent: 90
+2014-02-24 16:20:54,878 - INFO: billing AppKey 49130234-abf8-402b-b for 456 messages
+2014-02-24 16:30:33,405 - INFO: handleAuthRequest Payload received {"timeStamp":"2014-02-24T11:0:33.398Z","keepalive":6,"user":"eRgJ38","recoverytime":0,"version":"AS_1.5","authData":"","apiKey":"49130234-abf8-402b-b"}
+2014-02-24 16:30:33,407 - INFO: Successfully opened a new session
+2014-02-24 16:31:38,066 - INFO: Received: 5 Sent: 6
+2014-02-24 16:31:38,069 - INFO: billing AppKey 49130234-abf8-402b-b for 11 messages
+2014-02-24 16:31:51,813 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 16:31:51,820 - WARNING: Running with 500 CCU limit
+2014-02-24 16:31:57,989 - INFO: TCP server started
+2014-02-24 16:31:58,122 - INFO: UDPServer started
+2014-02-24 16:31:58,154 - INFO: started FlashPolicyServer
+2014-02-24 16:31:58,158 - WARNING: Error in createHSQLServiceTable java.sql.SQLSyntaxErrorException: object name already exists: SERVICE in statement [CREATE TABLE service(AppKey varchar(20),Secret varchar(20),Name varchar(20),PRIMARY KEY (AppKey))]
+2014-02-24 16:31:58,159 - WARNING: Error in createHSQLMteringTable java.sql.SQLSyntaxErrorException: object name already exists: METERING in statement [CREATE TABLE metering(AppKey varchar(20),sent int,received int,name varchar(35))]
+2014-02-24 16:31:58,160 - WARNING: Error in createHSQLRoomTable java.sql.SQLSyntaxErrorException: object name already exists: ROOM in statement [CREATE TABLE room(AppKey varchar(20),id varchar(20),maxPlayers int,name varchar(20),properties varchar(500),PRIMARY KEY (AppKey,id))]
+2014-02-24 16:32:02,520 - INFO: handleAuthRequest Payload received {"apiKey":"49130234-abf8-402b-b","recoverytime":0,"user":"mY4rvs","authData":"","timeStamp":"2014-02-24T11:2:2.499Z","version":"AS_1.5","keepalive":6}
+2014-02-24 16:32:02,526 - INFO: Successfully opened a new session
+2014-02-24 16:32:43,875 - INFO: Received: 5 Sent: 6
+2014-02-24 16:32:43,880 - INFO: billing AppKey 49130234-abf8-402b-b for 11 messages
+2014-02-24 16:32:57,410 - INFO: handleAuthRequest Payload received {"user":"f4KVDw","recoverytime":0,"authData":"","timeStamp":"2014-02-24T11:2:57.402Z","version":"AS_1.5","keepalive":6,"apiKey":"49130234-abf8-402b-b"}
+2014-02-24 16:32:57,412 - INFO: Successfully opened a new session
+2014-02-24 16:34:46,024 - INFO: Received: 43 Sent: 10
+2014-02-24 16:34:46,025 - INFO: billing AppKey 49130234-abf8-402b-b for 53 messages
+2014-02-24 16:35:34,139 - INFO: handleAuthRequest Payload received {"keepalive":6,"user":"dhBJzS","apiKey":"49130234-abf8-402b-b","recoverytime":0,"version":"AS_1.5","authData":"","timeStamp":"2014-02-24T11:5:34.132Z"}
+2014-02-24 16:35:34,140 - INFO: Successfully opened a new session
+2014-02-24 16:36:45,259 - INFO: Received: 28 Sent: 8
+2014-02-24 16:36:45,260 - INFO: billing AppKey 49130234-abf8-402b-b for 36 messages
+2014-02-24 16:38:45,168 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 16:38:45,175 - WARNING: Running with 500 CCU limit
+2014-02-24 16:38:48,068 - INFO: TCP server started
+2014-02-24 16:38:48,228 - INFO: UDPServer started
+2014-02-24 16:38:48,260 - INFO: started FlashPolicyServer
+2014-02-24 16:38:48,263 - WARNING: Error in createHSQLServiceTable java.sql.SQLSyntaxErrorException: object name already exists: SERVICE in statement [CREATE TABLE service(AppKey varchar(20),Secret varchar(20),Name varchar(20),PRIMARY KEY (AppKey))]
+2014-02-24 16:38:48,264 - WARNING: Error in createHSQLMteringTable java.sql.SQLSyntaxErrorException: object name already exists: METERING in statement [CREATE TABLE metering(AppKey varchar(20),sent int,received int,name varchar(35))]
+2014-02-24 16:38:48,265 - WARNING: Error in createHSQLRoomTable java.sql.SQLSyntaxErrorException: object name already exists: ROOM in statement [CREATE TABLE room(AppKey varchar(20),id varchar(20),maxPlayers int,name varchar(20),properties varchar(500),PRIMARY KEY (AppKey,id))]
+2014-02-24 16:39:13,481 - INFO: handleAuthRequest Payload received {"recoverytime":0,"timeStamp":"2014-02-24T11:9:13.467Z","keepalive":6,"version":"AS_1.5","authData":"","user":"eQGhwG","apiKey":"49130234-abf8-402b-b"}
+2014-02-24 16:39:13,486 - INFO: Successfully opened a new session
+2014-02-24 16:40:10,186 - INFO: Received: 24 Sent: 14
+2014-02-24 16:40:10,197 - INFO: billing AppKey 49130234-abf8-402b-b for 38 messages
+2014-02-24 16:43:39,202 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 16:43:39,212 - WARNING: Running with 500 CCU limit
+2014-02-24 16:43:53,592 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 16:43:53,601 - WARNING: Running with 500 CCU limit
+2014-02-24 16:44:24,085 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 16:44:24,092 - WARNING: Running with 500 CCU limit
+2014-02-24 16:44:25,428 - INFO: TCP server started
+2014-02-24 16:44:25,524 - INFO: UDPServer started
+2014-02-24 16:44:25,581 - INFO: started FlashPolicyServer
+2014-02-24 16:44:25,584 - WARNING: Error in createHSQLServiceTable java.sql.SQLSyntaxErrorException: object name already exists: SERVICE in statement [CREATE TABLE service(AppKey varchar(20),Secret varchar(20),Name varchar(20),PRIMARY KEY (AppKey))]
+2014-02-24 16:44:25,585 - WARNING: Error in createHSQLMteringTable java.sql.SQLSyntaxErrorException: object name already exists: METERING in statement [CREATE TABLE metering(AppKey varchar(20),sent int,received int,name varchar(35))]
+2014-02-24 16:44:25,586 - WARNING: Error in createHSQLRoomTable java.sql.SQLSyntaxErrorException: object name already exists: ROOM in statement [CREATE TABLE room(AppKey varchar(20),id varchar(20),maxPlayers int,name varchar(20),properties varchar(500),PRIMARY KEY (AppKey,id))]
+2014-02-24 16:44:51,599 - INFO: handleAuthRequest Payload received {"user":"z5DM31","recoverytime":0,"authData":"","timeStamp":"2014-02-24T11:14:51.584Z","version":"AS_1.5","keepalive":6,"apiKey":"49130234-abf8-402b-b"}
+2014-02-24 16:44:51,602 - INFO: Successfully opened a new session
+2014-02-24 16:45:17,308 - INFO: Received: 11 Sent: 16
+2014-02-24 16:45:17,310 - INFO: billing AppKey 49130234-abf8-402b-b for 27 messages
+2014-02-24 16:46:33,548 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 16:46:33,555 - WARNING: Running with 500 CCU limit
+2014-02-24 16:46:35,337 - INFO: TCP server started
+2014-02-24 16:46:35,486 - INFO: UDPServer started
+2014-02-24 16:46:35,517 - INFO: started FlashPolicyServer
+2014-02-24 16:46:35,521 - WARNING: Error in createHSQLServiceTable java.sql.SQLSyntaxErrorException: object name already exists: SERVICE in statement [CREATE TABLE service(AppKey varchar(20),Secret varchar(20),Name varchar(20),PRIMARY KEY (AppKey))]
+2014-02-24 16:46:35,521 - WARNING: Error in createHSQLMteringTable java.sql.SQLSyntaxErrorException: object name already exists: METERING in statement [CREATE TABLE metering(AppKey varchar(20),sent int,received int,name varchar(35))]
+2014-02-24 16:46:35,522 - WARNING: Error in createHSQLRoomTable java.sql.SQLSyntaxErrorException: object name already exists: ROOM in statement [CREATE TABLE room(AppKey varchar(20),id varchar(20),maxPlayers int,name varchar(20),properties varchar(500),PRIMARY KEY (AppKey,id))]
+2014-02-24 16:46:46,530 - INFO: handleAuthRequest Payload received {"keepalive":6,"user":"6CtZ2U","apiKey":"49130234-abf8-402b-b","recoverytime":0,"version":"AS_1.5","authData":"","timeStamp":"2014-02-24T11:16:46.514Z"}
+2014-02-24 16:46:46,536 - INFO: Successfully opened a new session
+2014-02-24 16:47:03,998 - INFO: FlashPolicyHandler sessionOpened
+2014-02-24 16:47:04,003 - INFO: FlashPolicyHandler messageReceived
+2014-02-24 16:47:04,053 - INFO: handleAuthRequest Payload received {"keepalive":6,"authData":"","version":"AS_1.5","recoverytime":0,"timeStamp":"2014-02-24T11:17:4.44Z","user":"O5jzbg","apiKey":"49130234-abf8-402b-b"}
+2014-02-24 16:47:04,053 - INFO: Successfully opened a new session
+2014-02-24 16:47:25,609 - INFO: Received: 32 Sent: 56
+2014-02-24 16:47:25,613 - INFO: billing AppKey 49130234-abf8-402b-b for 88 messages
+2014-02-24 16:47:44,178 - INFO: FlashPolicyHandler sessionOpened
+2014-02-24 16:47:44,185 - INFO: FlashPolicyHandler messageReceived
+2014-02-24 16:47:44,229 - INFO: handleAuthRequest Payload received {"timeStamp":"2014-02-24T11:17:44.220Z","keepalive":6,"authData":"","apiKey":"49130234-abf8-402b-b","recoverytime":0,"user":"GUe6QV","version":"AS_1.5"}
+2014-02-24 16:47:44,230 - INFO: Successfully opened a new session
+2014-02-24 16:47:57,214 - INFO: FlashPolicyHandler sessionOpened
+2014-02-24 16:47:57,216 - INFO: FlashPolicyHandler messageReceived
+2014-02-24 16:47:57,261 - INFO: handleAuthRequest Payload received {"timeStamp":"2014-02-24T11:17:57.252Z","recoverytime":0,"version":"AS_1.5","keepalive":6,"user":"gSgoTx","apiKey":"49130234-abf8-402b-b","authData":""}
+2014-02-24 16:47:57,262 - INFO: Successfully opened a new session
+2014-02-24 16:48:13,599 - INFO: FlashPolicyHandler sessionOpened
+2014-02-24 16:48:13,600 - INFO: FlashPolicyHandler messageReceived
+2014-02-24 16:48:13,649 - INFO: handleAuthRequest Payload received {"timeStamp":"2014-02-24T11:18:13.638Z","keepalive":6,"authData":"","recoverytime":0,"user":"c3lS2o","version":"AS_1.5","apiKey":"49130234-abf8-402b-b"}
+2014-02-24 16:48:13,651 - INFO: Successfully opened a new session
+2014-02-24 16:49:04,155 - INFO: Received: 98 Sent: 134
+2014-02-24 16:49:04,156 - INFO: billing AppKey 49130234-abf8-402b-b for 232 messages
+2014-02-24 16:49:06,200 - INFO: Received: 45 Sent: 70
+2014-02-24 16:49:06,201 - INFO: billing AppKey 49130234-abf8-402b-b for 115 messages
+2014-02-24 16:49:07,439 - INFO: Received: 58 Sent: 89
+2014-02-24 16:49:07,442 - INFO: billing AppKey 49130234-abf8-402b-b for 147 messages
+2014-02-24 16:49:23,662 - INFO: Received: 92 Sent: 158
+2014-02-24 16:49:23,663 - INFO: billing AppKey 49130234-abf8-402b-b for 250 messages
+2014-02-24 16:50:48,989 - WARNING: Error in loading license from server java.lang.Exception: no key in AppConfig.json
+2014-02-24 16:50:48,998 - WARNING: Running with 500 CCU limit
+2014-02-24 16:50:50,732 - INFO: TCP server started
+2014-02-24 16:50:50,891 - INFO: UDPServer started
+2014-02-24 16:50:50,921 - INFO: started FlashPolicyServer
+2014-02-24 16:50:50,925 - WARNING: Error in createHSQLServiceTable java.sql.SQLSyntaxErrorException: object name already exists: SERVICE in statement [CREATE TABLE service(AppKey varchar(20),Secret varchar(20),Name varchar(20),PRIMARY KEY (AppKey))]
+2014-02-24 16:50:50,926 - WARNING: Error in createHSQLMteringTable java.sql.SQLSyntaxErrorException: object name already exists: METERING in statement [CREATE TABLE metering(AppKey varchar(20),sent int,received int,name varchar(35))]
+2014-02-24 16:50:50,927 - WARNING: Error in createHSQLRoomTable java.sql.SQLSyntaxErrorException: object name already exists: ROOM in statement [CREATE TABLE room(AppKey varchar(20),id varchar(20),maxPlayers int,name varchar(20),properties varchar(500),PRIMARY KEY (AppKey,id))]
